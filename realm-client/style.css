@@ -1,0 +1,7 @@
+body {
+    background-image: url("src/img/realms.jpg");
+}
+
+.content {
+    display: flex;
+}
