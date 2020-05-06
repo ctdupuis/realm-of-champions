@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  leader: MyString
+  society: MyString
+  land: MyString
+  capital: MyString
+  champion: MyString
+  goal: MyString
+
+two:
+  name: MyString
+  leader: MyString
+  society: MyString
+  land: MyString
+  capital: MyString
+  champion: MyString
+  goal: MyString
